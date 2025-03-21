@@ -1,0 +1,1 @@
+{"uuid":"f3394e53-0d0d-4624-80a3-6f4aedc4c7c9","name":"automationFramework_API","children":["eada40e5-3cf8-4c16-b0c8-7657dc4690ee"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742559061215,"stop":1742559062145}],"afters":[],"start":1742559061184,"stop":1742559065570}
