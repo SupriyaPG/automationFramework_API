@@ -1,4 +1,4 @@
-package com.spgtesting.Ex10_PayloadManagement.GSON;
+package com.spgtesting.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

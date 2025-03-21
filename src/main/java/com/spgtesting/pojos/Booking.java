@@ -1,8 +1,8 @@
-package com.spgtesting.Ex10_PayloadManagement.GSON;
+package com.spgtesting.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-import com.spgtesting.Ex10_PayloadManagement.Manual.BookingDates;
+//import com.spgtesting.Ex10_PayloadManagement.Manual.BookingDates;
 
 
 public class Booking {
