@@ -70,9 +70,6 @@ To run tests in parallel, add the parallel attribute to your testng.xml file:
 
 ```allure serve allure-results/```
 
-![image](https://github.com/PramodDutta/APIAutomationFramworkATB6x/assets/1409610/79ba2093-a1b7-4b36-ba16-9a6827af7afe)
-![image](http://127.0.0.1:54593/#suites/c65f4e851e2590135733c363a646c778/a27a288160e3570/).
-
 ![apiAutomation_AllureReport](https://github.com/user-attachments/assets/e48e60b8-b809-45b7-8d48-5ef452474556)
 
 
