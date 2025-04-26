@@ -11,8 +11,8 @@ public class PayloadManager {
     Gson gson;
     public String createPayloadBookingAsString(){
         Booking booking=new Booking();
-        booking.setFirstname("sunny");
-        booking.setLastname("Hog");
+        booking.setFirstname("John");
+        booking.setLastname("Peter");
         booking.setTotalprice(112);
         booking.setDepositpaid(true);
 
